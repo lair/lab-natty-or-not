@@ -17,9 +17,9 @@ Para criar os modelos, utilizei a ferramenta Microsoft Designer e forneeci as in
 ## 🚀 Resultados
 Os resultados estão disponíveis nas pastas abaixo:
 
-* **Cena de Batalha Futurista**: [cena-de-batalha-futurista](/Promp 1/)
+* **Cena de Batalha Futurista**: [cena-de-batalha-futurista](https://github.com/lair/lab-natty-or-not/tree/main/Promp%201)
 
-* **Paisagem Noturna com Céu Estrelado**: [paisagem-noturna-com-cEU-estrelado](/Promp 2/)
+* **Paisagem Noturna com Céu Estrelado**: [paisagem-noturna-com-cEU-estrelado](https://github.com/lair/lab-natty-or-not/tree/main/Promp%202)
  
 
 ## 💭 Reflexão
