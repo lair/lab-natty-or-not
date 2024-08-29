@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+### Cenas e Paisagens Aestheticas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto apresenta modelos criados utilizando a ferramenta Microsoft Designer, que foram gerados com sucesso através da linguagem de prompt com o auxilio do Llama 3.1. O objetivo é demonstrar como criar cenas e paisagens utilizando inteligência artificial (IA).
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* Ferramenta: Microsoft Designer para criação da imagens
+* IA Generativa: Lhama 3.1 para refinamento
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para criar os modelos, utilizei a ferramenta Microsoft Designer e forneeci as instruções necessárias através da linguagem de prompt. As instruções eram claras e específicas, permitindo que o modelo criasse cenas e paisagens precisas.
+
+* Para a "Cena de Batalha Futurista", forneci detalhes sobre um cenário futurista com veículos destruídos e soldados em combate.
+* Para a "Paisagem Noturna com Céu Estrelado", forneci instruções sobre uma paisagem noturna misteriosa com um lago tranquilo, árvores altas e um céu estrelado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados estão disponíveis nas pastas abaixo:
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+* **Cena de Batalha Futurista**: [cena-de-batalha-futurista](/Promp 1/)
 
-### Exemplos e Insigths
+* **Paisagem Noturna com Céu Estrelado**: [paisagem-noturna-com-cEU-estrelado](/Promp 2/)
+ 
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar algo com IA foi um desafio interessante, pois exigiu uma grande capacidade de comunicação entre mim e a ferramenta. Foi necessário fornecer instruções claras para que o modelo pudesse entender o que estava sendo pedido. No entanto, o resultado final foi satisfatório e demonstrou como a IA pode ser utilizada para criar conteúdo criativo de maneira eficaz.
