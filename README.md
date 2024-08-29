@@ -19,7 +19,7 @@ Os resultados estão disponíveis nas pastas abaixo:
 
 * **Cena de Batalha Futurista**: [cena-de-batalha-futurista](https://github.com/lair/lab-natty-or-not/tree/main/Promp%201)
 
-* **Paisagem Noturna com Céu Estrelado**: [paisagem-noturna-com-cEU-estrelado](https://github.com/lair/lab-natty-or-not/tree/main/Promp%202)
+* **Paisagem Noturna com Céu Estrelado**: [paisagem-noturna-com-ceu-estrelado](https://github.com/lair/lab-natty-or-not/tree/main/Promp%202)
  
 
 ## 💭 Reflexão
